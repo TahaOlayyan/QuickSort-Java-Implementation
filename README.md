@@ -32,6 +32,12 @@ This process is repeated recursively until the whole array is sorted.
 
 ---
 
+## 🎬 Quick Sort Visualization (GIF)
+
+![Quick Sort GIF](https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)
+
+---
+
 ## ✅ Usage
 Simply run the program to see the array before and after sorting using Quick Sort.
 
